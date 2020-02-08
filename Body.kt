@@ -1,4 +1,4 @@
-public class GitTest2 {
+public class Body {
 
     fun main(array: StringArray) {
         
